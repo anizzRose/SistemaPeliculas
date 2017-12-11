@@ -1,0 +1,4 @@
+,1,El bolero de raquel,MAPAT,Cantinflas,Comedia,54.8,70.4,1
+,2,Rocky,Daniel Williams,Silvester Stalone,Peleas,45.32,95.43,2
+,3,WWE,WWE,Luchadores WWE,Peleas,123.45,233.45,3
+,5,pinocho,Gepeto,pepe grillo,infantil,50.0,45.0,5
